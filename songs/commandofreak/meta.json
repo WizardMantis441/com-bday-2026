@@ -5,7 +5,7 @@
 	],
 	"icon": "commandofreak",
 	"coopAllowed": false,
-	"color": "#ff0019",
+	"color": "#FF0019",
 	"stepsPerBeat": 4,
 	"displayName": "commandofreak",
 	"needsVoices": true,
