@@ -3,8 +3,8 @@
     <sprite name="bg" sprite="tungbg" x="0" y="0"/>
 
     <gf scale="0.4" x="500" y="370"/>
-    <dad x="550" y="550" camxoffset="-500"/>
-    <boyfriend x="1000" y="500" camyoffset="-100"/>
+    <dad x="550" y="550" camxoffset="-500" scale="1.35"/>
+    <boyfriend x="1000" y="350" camyoffset="00" flip="false" scale="0.9"/>
 
     <combo x="900" y="700"/>
 </stage>

@@ -1,18 +1,4 @@
 {
-	"meta": {
-		"opponentModeAllowed": false,
-		"difficulties": [
-			"normal"
-		],
-		"icon": "face",
-		"coopAllowed": false,
-		"color": "#9271FD",
-		"stepsPerBeat": 4,
-		"displayName": "loisimcumming",
-		"needsVoices": true,
-		"beatsPerMeasure": 4,
-		"bpm": 140
-	},
 	"events": [
 		{
 			"params": [
@@ -513,11 +499,15 @@
 			"time": 102147.776641963
 		}
 	],
-	"codenameChart": true,
 	"stage": "birthday",
+	"codenameChart": true,
+	"chartVersion": "1.6.0",
+	"scrollSpeed": 4,
 	"strumLines": [
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "dad",
 			"notes": [
 				{
 					"id": 3,
@@ -599,7 +589,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 115.38461538461,
+					"sLen": 115.384615384595,
 					"time": 53662.0879120879,
 					"type": 0
 				},
@@ -677,7 +667,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 230.769230769249,
+					"sLen": 230.769230769256,
 					"time": 55623.6263736264,
 					"type": 0
 				},
@@ -695,7 +685,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 230.769230769249,
+					"sLen": 230.769230769263,
 					"time": 56315.9340659341,
 					"type": 0
 				},
@@ -1846,23 +1836,23 @@
 					"type": 0
 				}
 			],
+			"characters": [
+				"bf-com"
+			],
+			"type": 0,
 			"visible": true,
 			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "dad",
-			"strumScale": 1,
-			"vocalsSuffix": "",
 			"strumLinePos": 0.25,
-			"type": 0,
-			"characters": [
-				"bf-com"
-			]
+			"vocalsSuffix": ""
 		},
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 2,
@@ -2028,7 +2018,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 321.42857142858,
+					"sLen": 321.428571428583,
 					"time": 27642.8571428571,
 					"type": 0
 				},
@@ -2454,7 +2444,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 230.769230769241,
+					"sLen": 230.769230769249,
 					"time": 47315.9340659341,
 					"type": 0
 				},
@@ -2592,13 +2582,13 @@
 				},
 				{
 					"id": 1,
-					"sLen": 346.153846153829,
+					"sLen": 346.153846153822,
 					"time": 62085.1648351648,
 					"type": 0
 				},
 				{
 					"id": 0,
-					"sLen": 461.538461538454,
+					"sLen": 461.538461538446,
 					"time": 62431.3186813187,
 					"type": 0
 				},
@@ -2832,7 +2822,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 57.6923076923267,
+					"sLen": 57.6923076923413,
 					"time": 73796.7032967033,
 					"type": 0
 				},
@@ -2982,7 +2972,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 461.538461538483,
+					"sLen": 461.538461538497,
 					"time": 79234.2032967033,
 					"type": 0
 				},
@@ -4337,34 +4327,20 @@
 					"type": 0
 				}
 			],
+			"characters": [
+				"com"
+			],
+			"type": 1,
 			"visible": true,
 			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "boyfriend",
-			"strumScale": 1,
-			"vocalsSuffix": "",
 			"strumLinePos": 0.75,
-			"type": 1,
-			"characters": [
-				"com"
-			]
-		},
-		{
-			"keyCount": 4,
-			"position": "girlfriend",
-			"notes": [],
-			"characters": [
-				"bf"
-			],
-			"visible": false,
-			"type": 2
+			"vocalsSuffix": ""
 		}
 	],
-	"scrollSpeed": 4,
-	"chartVersion": "1.6.0",
 	"noteTypes": [
 		"No Anim Note"
 	]

@@ -17,6 +17,26 @@ function postCreate() {
     luis.x -= 1000;
     luis.camera = camHUD;
     add(luis);
+
+    var chars = [];
+    for (sl in strumLines.members) {
+        for (c in sl.characters) {
+           chars.push(c);
+        }
+    }
+
+    var total = [0, 0];
+    for (c in chars) {
+        var pos = c.getCameraPosition();
+        total[0] += pos.x;
+        total[1] += pos.y;
+    }
+
+    total[0] /= chars.length;
+    total[1] /= chars.length;
+
+    FlxG.camera.scroll.x = total[0] - FlxG.width / 2;
+    FlxG.camera.scroll.y = total[1] - FlxG.height / 2;
 }
 
 function beatHit() {
