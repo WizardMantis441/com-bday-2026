@@ -1,11 +1,11 @@
 {
 	"customValues": {},
-	"color": "#9271FD",
+	"color": "#a66607",
 	"opponentModeAllowed": false,
 	"difficulties": [
 		"normal"
 	],
-	"icon": "face",
+	"icon": "tung",
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"displayName": "Tung",

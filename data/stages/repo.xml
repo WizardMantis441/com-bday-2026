@@ -1,24 +1,24 @@
 <!DOCTYPE codename-engine-stage>
-<stage folder="stages/repo" zoom="0.95">
+<stage folder="stages/repo" zoom="0.8">
     <sprite name="hallway" sprite="repocombghallway" x="-140" y="-35" scale="1" scroll="0.9" zoomfactor="0.9"/>
+    
+    <sprite name="lava" sprite="felas/lava" x="0" y="270" scroll="0.9" zoomfactor="0.9" scale="0.7">
+        <anim name="idle" anim="walk" loop="true" indices="0,6,12,18" fps="6"/>
+    </sprite>
+    <sprite name="chicken" sprite="felas/ch1cken" x="0" y="285" scroll="0.9" zoomfactor="0.9" scale="0.55">
+        <anim name="idle" anim="walk" loop="true" indices="0,6,12,18" fps="6"/>
+    </sprite>
+    <sprite name="victor" sprite="felas/victorrunning" x="0" y="420" scale="1.75">
+        <anim name="idle" anim="run" loop="true"/>
+    </sprite>
+
     <sprite name="bg" sprite="repocombg" x="0" y="0" scale="0.8"/>
-    <sprite name="gunns" sprite="felas/gunns" x="650" y="275" scale="0.65" type="onbeat" beatInterval="1">
+    <sprite name="gunns" sprite="felas/gunns" x="650" y="275" scale="0.5" type="onbeat" beatInterval="1">
         <anim name="left" anim="idle10" fps="12"/>
         <anim name="right" anim="idle20" fps="12"/>
     </sprite>
 
-    <sprite name="chicken" sprite="felas/ch1cken" x="0" y="375" scale="1">
-        <anim name="idle" anim="walk" loop="true" indices="0,6,12,18" fps="6"/>
-    </sprite>
-    <sprite name="victor" sprite="felas/victorrunning" x="0" y="450" scale="2.5">
-        <anim name="idle" anim="run" loop="true"/>
-    </sprite>
-
-    <dad x="300" y="400" scale="1.075"/>
-    <character name="repo-aethar" flip="true" x="975" y="400" scale="0.85"/>
-    <character name="repo-lsr" flip="true" x="1100" y="425" scale="1.15"/>
-    
-    <sprite name="lava" sprite="felas/lava" x="0" y="600" scroll="1.5" scale="1.75">
-        <anim name="idle" anim="walk" loop="true" indices="0,6,12,18" fps="6"/>
-    </sprite>
+    <dad x="470" y="375" scale="0.8"/>
+    <character name="repo-aethar" flip="true" x="820" y="350" scale="0.75"/>
+    <character name="repo-lsr" flip="true" x="950" y="380" scale="0.85"/>
 </stage>

@@ -1,13 +1,13 @@
 {
 	"opponentModeAllowed": true,
-	"icon": "face",
+	"icon": "3ds",
 	"difficulties": [
 		"normal"
 	],
-	"color": "#FFFFFF",
+	"color": "#d900b5",
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
-	"displayName": "the-big-3dd",
+	"displayName": "road trip",
 	"needsVoices": true,
 	"beatsPerMeasure": 4,
 	"bpm": 180

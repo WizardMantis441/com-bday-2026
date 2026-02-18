@@ -3,9 +3,9 @@
 	"difficulties": [
 		"normal"
 	],
-	"icon": "face",
+	"icon": "commandofreak",
 	"coopAllowed": false,
-	"color": "#9271FD",
+	"color": "#ff0019",
 	"stepsPerBeat": 4,
 	"displayName": "commandofreak",
 	"needsVoices": true,

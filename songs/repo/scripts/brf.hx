@@ -6,3 +6,7 @@ function postCreate() {
     for (i in [iconP1, iconP2, healthBar, healthBarBG, scoreTxt, missesTxt, accuracyTxt])
         i.visible = false;
 }
+
+function bruh() {
+    camGame.alpha = 0;
+}

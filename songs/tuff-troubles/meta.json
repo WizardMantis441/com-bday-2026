@@ -1,11 +1,11 @@
 {
 	"customValues": {},
-	"color": "#9271FD",
+	"color": "#70000b",
 	"opponentModeAllowed": false,
 	"difficulties": [
 		"normal"
 	],
-	"icon": "face",
+	"icon": "scrimbo",
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"displayName": "Tuff Troubles",

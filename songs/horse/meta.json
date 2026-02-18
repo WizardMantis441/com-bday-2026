@@ -3,9 +3,9 @@
 	"difficulties": [
 		"normal"
 	],
-	"icon": "face",
+	"icon": "horse",
 	"coopAllowed": false,
-	"color": "#9271FD",
+	"color": "#f0ff8c",
 	"stepsPerBeat": 4,
 	"displayName": "horse",
 	"needsVoices": true,

@@ -3,11 +3,11 @@
 	"difficulties": [
 		"normal"
 	],
-	"icon": "face",
+	"icon": "com",
 	"coopAllowed": false,
 	"color": "#000000",
 	"stepsPerBeat": 4,
-	"displayName": "desolate-dissonance",
+	"displayName": "desolate dissonance",
 	"needsVoices": true,
 	"beatsPerMeasure": 4,
 	"bpm": 140
