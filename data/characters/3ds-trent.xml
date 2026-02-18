@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Trent3DS">
+	<anim name="idle" anim="Trent3DS Idle" fps="12" loop="true"/>
+	<anim name="singDOWN" anim="Trent3DS Down" fps="12" loop="true"/>
+	<anim name="singRIGHT" anim="Trent3DS Right" fps="12" loop="true"/>
+	<anim name="singLEFT" anim="Trent3DS Left" fps="12" loop="true"/>
+	<anim name="singUP" anim="Trent3DS Up" fps="12" loop="true"/>
+</character>

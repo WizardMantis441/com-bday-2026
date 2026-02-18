@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Victor3DS.png">
+<SubTexture name="Victor3DS Idle0000" x="486" y="252" width="241" height="251" frameX="-47" frameY="-10" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Idle0001" x="729" y="0" width="240" height="251" frameX="-47" frameY="-10" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Idle0002" x="0" y="0" width="243" height="252" frameX="-47" frameY="-9" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Up0000" x="0" y="504" width="241" height="251" frameX="-47" frameY="-10" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Up0001" x="729" y="251" width="240" height="251" frameX="-47" frameY="-10" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Up0002" x="243" y="0" width="243" height="252" frameX="-47" frameY="-9" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Left0000" x="241" y="504" width="241" height="251" frameX="-47" frameY="-10" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Left0001" x="482" y="504" width="240" height="251" frameX="-47" frameY="-10" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Left0002" x="486" y="0" width="243" height="252" frameX="-47" frameY="-9" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Down0000" x="722" y="504" width="241" height="251" frameX="-47" frameY="-10" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Down0001" x="969" y="0" width="240" height="251" frameX="-47" frameY="-10" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Down0002" x="0" y="252" width="243" height="252" frameX="-47" frameY="-9" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Right0000" x="0" y="755" width="241" height="251" frameX="-47" frameY="-10" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Right0001" x="969" y="251" width="240" height="251" frameX="-47" frameY="-10" frameWidth="355" frameHeight="261" />
+<SubTexture name="Victor3DS Right0002" x="243" y="252" width="243" height="252" frameX="-47" frameY="-9" frameWidth="355" frameHeight="261" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FFFFFF",
+	"opponentModeAllowed": true,
+	"icon": "face",
+	"difficulties": [
+		"normal"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "the repo song",
+	"needsVoices": false,
+	"beatsPerMeasure": 4,
+	"bpm": 71
+}

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ComBF.png">
+<SubTexture name="ComBF Right0000" x="0" y="0" width="386" height="614" frameX="0" frameY="0" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Right0001" x="386" y="0" width="386" height="614" frameX="0" frameY="0" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Right0002" x="772" y="0" width="374" height="614" frameX="-12" frameY="0" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Left0000" x="1532" y="0" width="386" height="484" frameX="0" frameY="-117" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Left0001" x="386" y="1138" width="386" height="447" frameX="0" frameY="-154" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Left0002" x="0" y="614" width="372" height="524" frameX="-14" frameY="-77" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Idle0000" x="718" y="614" width="351" height="507" frameX="-8" frameY="-94" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Idle0001" x="1532" y="484" width="351" height="481" frameX="-20" frameY="-120" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Idle0002" x="1069" y="614" width="351" height="499" frameX="-20" frameY="-101" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Down0000" x="1364" y="1138" width="347" height="205" frameX="-39" frameY="-379" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Down0001" x="1068" y="1138" width="296" height="323" frameX="-41" frameY="-260" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Down0002" x="772" y="1138" width="296" height="417" frameX="-41" frameY="-166" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Up0000" x="1146" y="0" width="386" height="614" frameX="0" frameY="0" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Up0001" x="372" y="614" width="346" height="513" frameX="-40" frameY="-101" frameWidth="386" frameHeight="614" />
+<SubTexture name="ComBF Up0002" x="0" y="1138" width="386" height="455" frameX="0" frameY="-159" frameWidth="386" frameHeight="614" />
+</TextureAtlas>

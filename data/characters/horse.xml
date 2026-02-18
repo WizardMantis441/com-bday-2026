@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-500" y="-450" sprite="thehorsesprites" icon="horse" camx="500" camy="500">
+	<anim name="idle" anim="idlehorse instance 1" loop="true"/>
+	<anim name="singDOWN" anim="horsedown instance 1" x="-465" y="-594"/>
+	<anim name="singRIGHT" anim="horseright instance 1" x="-447" y="-465"/>
+	<anim name="singLEFT" anim="horseleft instance 1" x="-166" y="-491"/>
+	<anim name="singUP" anim="horseup instance 1" x="-349" y="-142"/>
+</character>

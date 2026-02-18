@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="ComBF" camx="500" camy="-50">
+	<anim name="idle" anim="ComBF Idle"/>
+	<anim name="singDOWN" anim="ComBF Down"/>
+	<anim name="singRIGHT" anim="ComBF Right"/>
+	<anim name="singLEFT" anim="ComBF Left"/>
+	<anim name="singUP" anim="ComBF Up"/>
+</character>

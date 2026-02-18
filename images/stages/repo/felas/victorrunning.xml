@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="victorrunning.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="run0000" x="0" y="0" width="326" height="179" frameX="2" frameY="-13" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0001" x="326" y="0" width="326" height="179" frameX="2" frameY="-13" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0002" x="0" y="366" width="291" height="188" frameX="-15" frameY="-18" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0003" x="291" y="366" width="291" height="188" frameX="-15" frameY="-18" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0004" x="305" y="179" width="256" height="185" frameX="-31" frameY="-23" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0005" x="0" y="554" width="256" height="185" frameX="-31" frameY="-23" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0006" x="905" y="0" width="242" height="185" frameX="-31" frameY="-23" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0007" x="905" y="185" width="242" height="185" frameX="-31" frameY="-23" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0008" x="256" y="554" width="247" height="184" frameX="-31" frameY="-20" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0009" x="503" y="554" width="247" height="184" frameX="-31" frameY="-20" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0010" x="905" y="370" width="235" height="185" frameX="-27" frameY="-16" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0011" x="0" y="739" width="235" height="185" frameX="-27" frameY="-16" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0012" x="652" y="0" width="253" height="188" frameX="-18" frameY="-14" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0013" x="652" y="188" width="253" height="188" frameX="-18" frameY="-14" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0014" x="0" y="179" width="305" height="187" frameX="-5" frameY="-13" frameWidth="356" frameHeight="211"/>
+	<SubTexture name="run0015" x="0" y="179" width="305" height="187" frameX="-5" frameY="-13" frameWidth="356" frameHeight="211"/>
+</TextureAtlas>

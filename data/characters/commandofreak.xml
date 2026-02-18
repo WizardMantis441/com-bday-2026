@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character camx="500">
+	<anim name="idle" anim="idle"/>
+	<anim name="singLEFT" anim="left" x="137" y="3"/>
+	<anim name="singDOWN" anim="down" x="-20" y="-106"/>
+	<anim name="singUP" anim="up" x="66" y="71"/>
+	<anim name="singRIGHT" anim="right" x="-13" y="-13"/>
+	<anim name="transform" anim="transform" x="-8"/>
+	<anim name="idle-alt" anim="altidle" x="-12"/>
+	<anim name="singLEFT-alt" anim="altleft" x="81" y="2"/>
+	<anim name="singDOWN-alt" anim="altdown" x="-23" y="-39"/>
+	<anim name="singUP-alt" anim="altup" x="-18" y="40"/>
+	<anim name="singRIGHT-alt" anim="altright" x="-20"/>
+</character>

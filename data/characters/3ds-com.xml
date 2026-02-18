@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Com3DS">
+	<anim name="idle" anim="Com3DS Idle" fps="12" loop="true"/>
+	<anim name="singDOWN" anim="Com3DS Down" fps="12" loop="true"/>
+	<anim name="singRIGHT" anim="Com3DS Right" fps="12" loop="true"/>
+	<anim name="singLEFT" anim="Com3DS Left" fps="12" loop="true"/>
+	<anim name="singUP" anim="Com3DS Up" fps="12" loop="true"/>
+</character>

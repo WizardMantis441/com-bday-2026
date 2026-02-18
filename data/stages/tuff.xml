@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/tuff" zoom="0.7">
+    <sprite name="bg" sprite="scrimtackular" x="-1000" y="-1050" scale="0.67"/>
+    <sprite name="ohshitdasme" sprite="wizardtuff" x="550" y="300" type="onbeat" scale="0.25">
+        <anim name="idle" anim="idle"/>
+    </sprite>
+
+    <gf scroll="1" name="mickert" flip="true" x="800" y="-100"/>
+    <boyfriend x="400" y="-100" camxoffset="100"/>
+</stage>

@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/roadtrip" zoom="1.5">
+    <combo/>
+    <sprite name="back" sprite="BgCouch3DS" x="0" y="0">
+        <anim name="idle" anim="BgCouch3DS Idle" loop="true" fps="12"/>
+    </sprite>
+
+    <character name="3ds-trent" x="250" y="330"/>
+    <character name="3ds-mayro" x="450" y="335"/>
+    <character name="3ds-gary" x="575" y="310"/>
+
+    <sprite name="frontseats" sprite="Frontseat3DS" x="0" y="0">
+        <anim name="idle" anim="Frontseat3DS Idle" loop="true" fps="12"/>
+    </sprite>
+
+    <character name="3ds-com" x="330" y="445"/>
+    <character name="3ds-victor" x="550" y="445"/>
+
+    <sprite name="border" sprite="Border3DS" x="0" y="0">
+        <anim name="idle" anim="Border3DS Idle" loop="true" fps="12"/>
+    </sprite>
+</stage>

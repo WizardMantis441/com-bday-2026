@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/horse" zoom="0.8">
+    <sprite name="bg" sprite="horse" x="0" y="0" scale="1.75"/>
+    <sprite name="worm" sprite="Worm" x="750" y="450" scale="1">
+        <anim name="idle" anim="Worm Idle" loop="true"/>
+    </sprite>
+    <gf scale="0"/>
+    <boyfriend x="0" camxoffset="300"/>
+</stage>

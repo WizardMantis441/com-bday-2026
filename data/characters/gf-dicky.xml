@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="DickyGF" icon="gf-dicky">
+	<anim name="idle" anim="DickyGF Idle" loop="true"/>
+	<anim name="singDOWN" loop="true"/>
+	<anim name="singRIGHT" loop="true"/>
+	<anim name="singLEFT" loop="true"/>
+	<anim name="singUP" loop="true"/>
+</character>

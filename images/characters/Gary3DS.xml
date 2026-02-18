@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gary3DS.png">
+<SubTexture name="Gary3DS Idle0000" x="0" y="0" width="181" height="210" frameX="-108" frameY="-51" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Idle0001" x="543" y="0" width="183" height="209" frameX="-107" frameY="-52" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Idle0002" x="543" y="209" width="182" height="209" frameX="-108" frameY="-52" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Down0000" x="181" y="0" width="181" height="210" frameX="-108" frameY="-51" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Down0001" x="0" y="420" width="183" height="209" frameX="-107" frameY="-52" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Down0002" x="183" y="420" width="182" height="209" frameX="-108" frameY="-52" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Left0000" x="362" y="0" width="181" height="210" frameX="-108" frameY="-51" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Left0001" x="365" y="420" width="183" height="209" frameX="-107" frameY="-52" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Left0002" x="726" y="0" width="182" height="209" frameX="-108" frameY="-52" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Right0000" x="0" y="210" width="181" height="210" frameX="-108" frameY="-51" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Right0001" x="0" y="629" width="183" height="209" frameX="-107" frameY="-52" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Right0002" x="726" y="209" width="182" height="209" frameX="-108" frameY="-52" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Up0000" x="181" y="210" width="181" height="210" frameX="-108" frameY="-51" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Up0001" x="183" y="629" width="183" height="209" frameX="-107" frameY="-52" frameWidth="355" frameHeight="261" />
+<SubTexture name="Gary3DS Up0002" x="726" y="418" width="182" height="209" frameX="-108" frameY="-52" frameWidth="355" frameHeight="261" />
+</TextureAtlas>

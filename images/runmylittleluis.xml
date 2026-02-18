@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="runmylittleluis.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="luisRUNNN instance 10000" x="0" y="0" width="513" height="612" frameX="-117" frameY="0" frameWidth="749" frameHeight="624"/>
+	<SubTexture name="luisRUNNN instance 10001" x="513" y="0" width="417" height="616" frameX="-217" frameY="-2" frameWidth="749" frameHeight="624"/>
+	<SubTexture name="luisRUNNN instance 10002" x="930" y="0" width="747" height="578" frameX="-2" frameY="-4" frameWidth="749" frameHeight="624"/>
+	<SubTexture name="luisRUNNN instance 10003" x="1677" y="0" width="527" height="611" frameX="-115" frameY="-5" frameWidth="749" frameHeight="624"/>
+	<SubTexture name="luisRUNNN instance 10004" x="2204" y="0" width="417" height="616" frameX="-230" frameY="-7" frameWidth="749" frameHeight="624"/>
+	<SubTexture name="luisRUNNN instance 10005" x="2621" y="0" width="537" height="611" frameX="-114" frameY="-8" frameWidth="749" frameHeight="624"/>
+	<SubTexture name="luisRUNNN instance 10006" x="3158" y="0" width="417" height="617" frameX="-230" frameY="-7" frameWidth="749" frameHeight="624"/>
+	<SubTexture name="luisRUNNN instance 10007" x="0" y="617" width="747" height="581" frameX="0" frameY="-5" frameWidth="749" frameHeight="624"/>
+	<SubTexture name="luisRUNNN instance 10008" x="747" y="617" width="525" height="615" frameX="-113" frameY="-4" frameWidth="749" frameHeight="624"/>
+	<SubTexture name="luisRUNNN instance 10009" x="1272" y="617" width="417" height="622" frameX="-217" frameY="-2" frameWidth="749" frameHeight="624"/>
+	<SubTexture name="luisRUNNN instance 10010" x="1689" y="617" width="518" height="619" frameX="-112" frameY="0" frameWidth="749" frameHeight="624"/>
+</TextureAtlas>

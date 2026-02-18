@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Trent3DS.png">
+<SubTexture name="Trent3DS Up0000" x="0" y="482" width="225" height="240" frameX="-85" frameY="-21" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Up0001" x="225" y="0" width="225" height="241" frameX="-85" frameY="-20" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Up0002" x="675" y="240" width="224" height="240" frameX="-85" frameY="-21" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Right0000" x="225" y="482" width="225" height="240" frameX="-85" frameY="-21" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Right0001" x="450" y="0" width="225" height="241" frameX="-85" frameY="-20" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Right0002" x="450" y="482" width="224" height="240" frameX="-85" frameY="-21" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Left0000" x="674" y="482" width="225" height="240" frameX="-85" frameY="-21" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Left0001" x="0" y="241" width="225" height="241" frameX="-85" frameY="-20" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Left0002" x="899" y="0" width="224" height="240" frameX="-85" frameY="-21" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Down0000" x="0" y="722" width="225" height="240" frameX="-85" frameY="-21" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Down0001" x="225" y="241" width="225" height="241" frameX="-85" frameY="-20" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Down0002" x="899" y="240" width="224" height="240" frameX="-85" frameY="-21" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Idle0000" x="450" y="241" width="225" height="240" frameX="-85" frameY="-21" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Idle0001" x="0" y="0" width="225" height="241" frameX="-85" frameY="-20" frameWidth="355" frameHeight="261" />
+<SubTexture name="Trent3DS Idle0002" x="675" y="0" width="224" height="240" frameX="-85" frameY="-21" frameWidth="355" frameHeight="261" />
+</TextureAtlas>

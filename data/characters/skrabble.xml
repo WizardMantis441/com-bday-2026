@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character camx="300" camy="-100" icon="scrimbo">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down" x="-4" y="-26"/>
+	<anim name="singRIGHT" anim="right" x="-9" y="17"/>
+	<anim name="singLEFT" anim="left" x="85" y="-16"/>
+	<anim name="singUP" anim="up" x="26" y="100"/>
+	<anim name="alt" anim="altnote" y="31" fps="12"/>
+	<anim name="transition" anim="transition" x="1" y="31"/>
+</character>

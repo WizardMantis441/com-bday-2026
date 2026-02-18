@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/freak/" name="freak" zoom="0.7">
+	<gf scale="0"/>
+	<sprite x="-465" scroll="0.2" sprite="skybox_thing" y="-556" name="bg"/>
+	<sprite x="460" scroll="0.45" sprite="house" y="105.714285714286" name="house"/>
+	<sprite x="0" scroll="0.8" sprite="bush3" y="552.142857142857" type="none" name="bushbehindtree"/>
+	<sprite x="731" scroll="0.85" sprite="bush2" y="258" name="bush-bg"/>
+	<sprite x="100" scroll="0.9" sprite="freaktree" y="-61" name="tree"/>
+	<sprite x="33" sprite="ground" y="1065" name="ground"/>
+	<sprite x="650" sprite="shadow" y="1170" type="none" scale="0.777988931452414" name="shadow1"/>
+	<sprite x="1390" sprite="shadow" y="1210" type="none" scale="0.763964355926414" name="shadow2"/>
+	<sprite x="1450" sprite="bush1" y="832" name="bush-main"/>
+    <combo x="1300" y="700"/>
+	<dad scale="0.8" camxoffset="-500" x="630" y="530"/>
+	<boyfriend camxoffset="100" x="500" y="538"/>
+	<sprite x="-100" sprite="fgbush" y="680" name="bush-fg"/>
+</stage>

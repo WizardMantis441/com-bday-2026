@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Com3DS.png">
+<SubTexture name="Com3DS Idle0000" x="0" y="0" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Idle0001" x="275" y="0" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Idle0002" x="0" y="238" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Up0000" x="275" y="238" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Up0001" x="550" y="0" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Up0002" x="550" y="238" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Down0000" x="0" y="476" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Down0001" x="275" y="476" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Down0002" x="550" y="476" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Right0000" x="825" y="0" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Right0001" x="825" y="238" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Right0002" x="825" y="476" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Left0000" x="0" y="714" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Left0001" x="275" y="714" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+<SubTexture name="Com3DS Left0002" x="550" y="714" width="275" height="238" frameX="-7" frameY="-23" frameWidth="355" frameHeight="261" />
+</TextureAtlas>

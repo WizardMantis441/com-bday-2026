@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="mickeythemouse" flipX="true" isPlayer="true" icon="mickey">
+	<anim name="idle" anim="idle" loop="true"/>
+	<anim name="singDOWN" anim="down" x="9" y="78"/>
+	<anim name="singRIGHT" anim="right" x="51" y="75"/>
+	<anim name="singLEFT" anim="left" x="110" y="63"/>
+	<anim name="singUP" anim="up" x="-8" y="82"/>
+	<anim name="aha" anim="aha" x="-34" y="84" fps="12"/>
+</character>

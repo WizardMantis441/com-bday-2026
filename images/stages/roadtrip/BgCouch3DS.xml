@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BgCouch3DS.png">
+<SubTexture name="BgCouch3DS Idle0000" x="0" y="0" width="1200" height="690" frameX="0" frameY="0" frameWidth="1200" frameHeight="690" />
+<SubTexture name="BgCouch3DS Idle0001" x="1200" y="0" width="1200" height="690" frameX="0" frameY="0" frameWidth="1200" frameHeight="690" />
+<SubTexture name="BgCouch3DS Idle0002" x="0" y="690" width="1200" height="690" frameX="0" frameY="0" frameWidth="1200" frameHeight="690" />
+</TextureAtlas>

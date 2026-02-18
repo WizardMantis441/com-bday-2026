@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mayro3DS.png">
+<SubTexture name="Mayro3DS Idle0000" x="0" y="0" width="161" height="248" frameX="-84" frameY="-13" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Idle0001" x="161" y="0" width="161" height="248" frameX="-84" frameY="-13" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Idle0002" x="0" y="496" width="160" height="247" frameX="-85" frameY="-14" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Up0000" x="322" y="0" width="161" height="248" frameX="-84" frameY="-13" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Up0001" x="483" y="0" width="161" height="248" frameX="-84" frameY="-13" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Up0002" x="160" y="496" width="160" height="247" frameX="-85" frameY="-14" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Left0000" x="0" y="248" width="161" height="248" frameX="-84" frameY="-13" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Left0001" x="161" y="248" width="161" height="248" frameX="-84" frameY="-13" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Left0002" x="320" y="496" width="160" height="247" frameX="-85" frameY="-14" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Right0000" x="322" y="248" width="161" height="248" frameX="-84" frameY="-13" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Right0001" x="483" y="248" width="161" height="248" frameX="-84" frameY="-13" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Right0002" x="480" y="496" width="160" height="247" frameX="-85" frameY="-14" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Down0000" x="644" y="0" width="161" height="248" frameX="-84" frameY="-13" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Down0001" x="644" y="248" width="161" height="248" frameX="-84" frameY="-13" frameWidth="355" frameHeight="261" />
+<SubTexture name="Mayro3DS Down0002" x="640" y="496" width="160" height="247" frameX="-85" frameY="-14" frameWidth="355" frameHeight="261" />
+</TextureAtlas>

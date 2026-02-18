@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Frontseat3DS.png">
+<SubTexture name="Frontseat3DS Idle0000" x="0" y="0" width="429" height="212" frameX="-379" frameY="-478" frameWidth="1200" frameHeight="690" />
+<SubTexture name="Frontseat3DS Idle0001" x="0" y="212" width="427" height="212" frameX="-380" frameY="-478" frameWidth="1200" frameHeight="690" />
+<SubTexture name="Frontseat3DS Idle0002" x="429" y="0" width="427" height="212" frameX="-380" frameY="-478" frameWidth="1200" frameHeight="690" />
+</TextureAtlas>

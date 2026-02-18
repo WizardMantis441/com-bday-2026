@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Worm.png">
+<SubTexture name="Worm Idle0000" x="0" y="0" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0001" x="137" y="0" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0002" x="274" y="0" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0003" x="0" y="140" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0004" x="137" y="140" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0005" x="274" y="140" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0006" x="411" y="0" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0007" x="411" y="140" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0008" x="0" y="280" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0009" x="137" y="280" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0010" x="274" y="280" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0011" x="411" y="280" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0012" x="548" y="0" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0013" x="548" y="140" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0014" x="548" y="280" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0015" x="0" y="420" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0016" x="137" y="420" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0017" x="274" y="420" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0018" x="411" y="420" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0019" x="548" y="420" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0020" x="685" y="0" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0021" x="685" y="140" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0022" x="685" y="280" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0023" x="685" y="420" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0024" x="0" y="560" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0025" x="137" y="560" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0026" x="274" y="560" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0027" x="411" y="560" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0028" x="548" y="560" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0029" x="685" y="560" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0030" x="822" y="0" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0031" x="822" y="140" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0032" x="822" y="280" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0033" x="822" y="420" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0034" x="822" y="560" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0035" x="0" y="700" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0036" x="137" y="700" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0037" x="274" y="700" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0038" x="411" y="700" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+<SubTexture name="Worm Idle0039" x="548" y="700" width="137" height="140" frameX="0" frameY="0" frameWidth="137" frameHeight="140" />
+</TextureAtlas>
