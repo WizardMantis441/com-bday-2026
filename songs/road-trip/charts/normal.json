@@ -1,9 +1,9 @@
 {
 	"bookmarks": [
 		{
-			"name": "i have no fucking clue",
+			"time": 1295.81715909131,
 			"color": "#FF0000",
-			"time": 1295.81715909131
+			"name": "i have no fucking clue"
 		}
 	],
 	"events": [
@@ -244,11 +244,54 @@
 			],
 			"time": 156518.103770063,
 			"name": "BPM Change"
+		},
+		{
+			"params": [
+				"fade",
+				""
+			],
+			"time": 156518.103770063,
+			"name": "HScript Call"
+		},
+		{
+			"params": [
+				"cutscene",
+				"1"
+			],
+			"time": 158501.574844444,
+			"name": "HScript Call"
+		},
+		{
+			"params": [
+				"cutscene",
+				"2"
+			],
+			"time": 162468.516993204,
+			"name": "HScript Call"
+		},
+		{
+			"params": [
+				"cutscene",
+				"3"
+			],
+			"time": 166435.459141965,
+			"name": "HScript Call"
+		},
+		{
+			"params": [
+				"cutscene",
+				"4"
+			],
+			"time": 174369.343439485,
+			"name": "HScript Call"
 		}
 	],
+	"stage": "roadtrip",
 	"strumLines": [
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "dad",
 			"notes": [
 				{
 					"id": 1,
@@ -504,7 +547,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 166.666666666672,
+					"sLen": 166.666666666679,
 					"time": 25666.6666666667,
 					"type": 2
 				},
@@ -1380,7 +1423,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 319.148936170212,
+					"sLen": 319.148936170226,
 					"time": 79879.4326241135,
 					"type": 1
 				},
@@ -1506,19 +1549,19 @@
 				},
 				{
 					"id": 1,
-					"sLen": 39.8936170212983,
+					"sLen": 39.8936170213274,
 					"time": 93602.8368794326,
 					"type": 4
 				},
 				{
 					"id": 3,
-					"sLen": 39.8936170212983,
+					"sLen": 39.8936170213274,
 					"time": 93762.4113475177,
 					"type": 4
 				},
 				{
 					"id": 0,
-					"sLen": 39.8936170212983,
+					"sLen": 39.8936170213274,
 					"time": 93921.9858156028,
 					"type": 4
 				},
@@ -1788,7 +1831,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 239.361702127673,
+					"sLen": 239.361702127688,
 					"time": 106368.794326241,
 					"type": 0
 				},
@@ -2034,7 +2077,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 39.8936170212983,
+					"sLen": 39.8936170213128,
 					"time": 114985.815602837,
 					"type": 0
 				},
@@ -2052,7 +2095,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 39.8936170212983,
+					"sLen": 39.8936170212692,
 					"time": 115304.964539007,
 					"type": 0
 				},
@@ -2669,26 +2712,26 @@
 					"type": 1
 				}
 			],
+			"characters": [
+				"3ds-trent",
+				"3ds-mayro",
+				"3ds-gary",
+				"3ds-victor"
+			],
+			"type": 0,
 			"visible": false,
 			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "dad",
-			"strumScale": 1,
-			"vocalsSuffix": "",
 			"strumLinePos": 0.25,
-			"type": 0,
-			"characters": [
-				"3ds-trent",
-				"3ds-mayro",
-				"3ds-gary",
-				"3ds-victor"
-			]
+			"vocalsSuffix": ""
 		},
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 1,
@@ -3334,7 +3377,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 39.8936170212692,
+					"sLen": 39.8936170212764,
 					"time": 64560.2836879433,
 					"type": 0
 				},
@@ -3754,7 +3797,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 39.8936170212983,
+					"sLen": 39.8936170213128,
 					"time": 87219.8581560283,
 					"type": 0
 				},
@@ -4036,7 +4079,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 39.8936170212837,
+					"sLen": 39.8936170212983,
 					"time": 96953.9007092198,
 					"type": 0
 				},
@@ -4300,7 +4343,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 39.8936170212983,
+					"sLen": 39.8936170212692,
 					"time": 102060.283687943,
 					"type": 0
 				},
@@ -4486,7 +4529,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 239.361702127673,
+					"sLen": 239.361702127688,
 					"time": 106368.794326241,
 					"type": 0
 				},
@@ -4558,7 +4601,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 39.8936170212692,
+					"sLen": 39.8936170212546,
 					"time": 107964.539007092,
 					"type": 0
 				},
@@ -4870,7 +4913,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 39.8936170212837,
+					"sLen": 39.8936170212983,
 					"time": 113070.921985815,
 					"type": 0
 				},
@@ -4942,7 +4985,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 39.8936170212983,
+					"sLen": 39.8936170213128,
 					"time": 114347.517730496,
 					"type": 0
 				},
@@ -5110,7 +5153,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 43.8596491228382,
+					"sLen": 43.8596491228527,
 					"time": 119675.998506905,
 					"type": 1
 				},
@@ -5182,7 +5225,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 43.8596491227945,
+					"sLen": 43.85964912278,
 					"time": 121430.384471818,
 					"type": 1
 				},
@@ -5206,7 +5249,7 @@
 				},
 				{
 					"id": 0,
-					"sLen": 43.8596491228382,
+					"sLen": 43.8596491228527,
 					"time": 122132.138857783,
 					"type": 1
 				},
@@ -5781,26 +5824,23 @@
 					"type": 0
 				}
 			],
+			"characters": [
+				"3ds-com"
+			],
+			"type": 1,
 			"visible": true,
 			"strumSpacing": 1.1,
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "boyfriend",
-			"strumScale": 1,
-			"vocalsSuffix": "",
 			"strumLinePos": 0.5,
-			"type": 1,
-			"characters": [
-				"3ds-com"
-			]
+			"vocalsSuffix": ""
 		}
 	],
 	"codenameChart": true,
-	"stage": "roadtrip",
-	"scrollSpeed": 2.5,
 	"chartVersion": "1.6.0",
+	"scrollSpeed": 2.5,
 	"noteTypes": [
 		"victor",
 		"gary",

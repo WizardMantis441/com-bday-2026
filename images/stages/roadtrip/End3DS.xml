@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="End3DS.png">
+<SubTexture name="End3DS P10000" x="0" y="0" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P10001" x="355" y="0" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P10002" x="0" y="261" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P20000" x="355" y="261" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P20001" x="710" y="0" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P20002" x="710" y="261" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P30000" x="0" y="522" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P30001" x="355" y="522" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P30002" x="710" y="522" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P40000" x="0" y="783" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P40001" x="355" y="783" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+<SubTexture name="End3DS P40002" x="710" y="783" width="355" height="261" frameX="0" frameY="0" frameWidth="355" frameHeight="261" />
+</TextureAtlas>
