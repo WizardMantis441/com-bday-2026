@@ -1,12 +1,12 @@
 {
 	"customValues": {},
 	"color": "#703A00",
-	"opponentModeAllowed": true,
+	"opponentModeAllowed": false,
 	"icon": "repoicon",
 	"difficulties": [
 		"normal"
 	],
-	"coopAllowed": true,
+	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"displayName": "repo",
 	"needsVoices": true,

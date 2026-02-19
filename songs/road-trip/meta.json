@@ -1,11 +1,11 @@
 {
-	"opponentModeAllowed": true,
+	"opponentModeAllowed": false,
 	"icon": "3ds",
 	"difficulties": [
 		"normal"
 	],
 	"color": "#d900b5",
-	"coopAllowed": true,
+	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"displayName": "road trip",
 	"needsVoices": true,

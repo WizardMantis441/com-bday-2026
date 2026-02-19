@@ -40,7 +40,7 @@ function postCreate() {
 }
 
 function beatHit() {
-    if (FlxG.random.bool(0.2) && !seenluis) wowluis();
+    if (FlxG.random.bool(0.1) && !seenluis) wowluis();
 }
 
 function wowluis() {
