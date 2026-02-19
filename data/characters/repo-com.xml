@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="comsemibot" icon="repo-com" camx="200">
+<character sprite="comsemibot" icon="repo-com" camx="50">
 	<anim name="idle" anim="idle"/>
 	<anim name="singDOWN" anim="down" x="15" y="-2" fps="12"/>
 	<anim name="singRIGHT" anim="right" x="-105" y="-1" fps="12"/>

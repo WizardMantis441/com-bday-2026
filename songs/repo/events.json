@@ -2,14 +2,11 @@
 	"events": [
 		{
 			"params": [
-				1
-			],
-			"time": 1690.14084507042,
-			"name": "Camera Movement"
-		},
-		{
-			"params": [
-				0
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"time": 3380.28169014084,
 			"name": "Camera Movement"

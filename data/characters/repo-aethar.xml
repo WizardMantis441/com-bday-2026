@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="aetharsemibot" flipX="true" isPlayer="true" camx="-150">
+<character sprite="aetharsemibot" flipX="true" isPlayer="true" camx="50">
 	<anim name="idle" anim="idle"/>
 	<anim name="singDOWN" anim="down" x="1" y="-29" fps="12"/>
 	<anim name="singRIGHT" anim="right" x="-91" y="-1" fps="12"/>

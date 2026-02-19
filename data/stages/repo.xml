@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-stage>
-<stage folder="stages/repo" zoom="0.8">
+<stage folder="stages/repo" zoom="1.1">
     <sprite name="hallway" sprite="repocombghallway" x="-140" y="-35" scale="1" scroll="0.9" zoomfactor="0.9"/>
     
     <sprite name="lava" sprite="felas/lava" x="0" y="270" scroll="0.9" zoomfactor="0.9" scale="0.7">

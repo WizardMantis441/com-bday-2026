@@ -2,49 +2,118 @@
 	"events": [
 		{
 			"params": [
-				1
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"time": 0,
 			"name": "Camera Movement"
 		},
 		{
 			"params": [
-				0
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"time": 6760.56338028169,
 			"name": "Camera Movement"
 		},
 		{
 			"params": [
-				1
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"time": 10140.8450704225,
 			"name": "Camera Movement"
 		},
 		{
 			"params": [
-				0
+				"bgEvent",
+				"lava"
+			],
+			"time": 13309.8591549296,
+			"name": "HScript Call"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"time": 13521.1267605634,
 			"name": "Camera Movement"
 		},
 		{
 			"params": [
-				1
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
-			"time": 20281.6901408451,
+			"time": 17112.676056338,
 			"name": "Camera Movement"
 		},
 		{
 			"params": [
-				0
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
-			"time": 27042.2535211268,
+			"time": 19436.6197183099,
 			"name": "Camera Movement"
 		},
 		{
 			"params": [
-				1
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 20704.2253521127,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 26197.1830985915,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 30845.0704225352,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"time": 32112.676056338,
 			"name": "Camera Movement"
@@ -78,7 +147,7 @@
 				"CLASSIC",
 				"In"
 			],
-			"time": 40563.3802816902,
+			"time": 37183.0985915493,
 			"name": "Camera Movement"
 		},
 		{
@@ -111,18 +180,18 @@
 				"CLASSIC",
 				"In"
 			],
-			"time": 44366.1971830986,
+			"time": 41197.1830985916,
 			"name": "Camera Movement"
 		},
 		{
 			"params": [
-				0,
+				2,
 				true,
 				4,
 				"CLASSIC",
 				"In"
 			],
-			"time": 47323.9436619719,
+			"time": 44366.1971830986,
 			"name": "Camera Movement"
 		},
 		{
@@ -148,19 +217,8 @@
 				"bgEvent",
 				"victor"
 			],
-			"time": 48591.5492957746,
+			"time": 49225.3521126761,
 			"name": "HScript Call"
-		},
-		{
-			"params": [
-				1,
-				true,
-				4,
-				"CLASSIC",
-				"In"
-			],
-			"time": 49014.0845070423,
-			"name": "Camera Movement"
 		},
 		{
 			"params": [
@@ -170,27 +228,8 @@
 				"CLASSIC",
 				"In"
 			],
-			"time": 50704.2253521127,
-			"name": "Camera Movement"
-		},
-		{
-			"params": [
-				1,
-				true,
-				4,
-				"CLASSIC",
-				"In"
-			],
 			"time": 52394.3661971831,
 			"name": "Camera Movement"
-		},
-		{
-			"params": [
-				"bgEvent",
-				"chicken"
-			],
-			"time": 52816.9014084507,
-			"name": "HScript Call"
 		},
 		{
 			"params": [
@@ -208,9 +247,13 @@
 		},
 		{
 			"params": [
-				0
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
-			"time": 57464.7887323944,
+			"time": 57887.323943662,
 			"name": "Camera Movement"
 		},
 		{
@@ -229,7 +272,7 @@
 		},
 		{
 			"params": [
-				1,
+				0,
 				true,
 				4,
 				"CLASSIC",
@@ -261,7 +304,11 @@
 		},
 		{
 			"params": [
-				0
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"time": 64225.3521126761,
 			"name": "Camera Movement"
@@ -289,7 +336,7 @@
 		},
 		{
 			"params": [
-				1,
+				0,
 				true,
 				4,
 				"CLASSIC",
@@ -310,9 +357,35 @@
 		},
 		{
 			"params": [
-				0
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 68028.1690140845,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"time": 74366.1971830986,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				2,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 77746.4788732394,
 			"name": "Camera Movement"
 		},
 		{
@@ -324,7 +397,7 @@
 		},
 		{
 			"params": [
-				0,
+				1,
 				true,
 				4,
 				"CLASSIC",
@@ -345,7 +418,19 @@
 		},
 		{
 			"params": [
-				1
+				"bgEvent",
+				"chicken"
+			],
+			"time": 81338.0281690141,
+			"name": "HScript Call"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"time": 84507.0422535211,
 			"name": "Camera Movement"
@@ -366,10 +451,10 @@
 		},
 		{
 			"params": [
-				"bruh",
+				"weirdsound",
 				""
 			],
-			"time": 87887.323943662,
+			"time": 87042.2535211268,
 			"name": "HScript Call"
 		},
 		{
